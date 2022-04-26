@@ -1,0 +1,11 @@
+.c-image {
+  height: 168px;
+  width: 162px;
+}
+
+.c-wrapper {
+  margin-top: 20px;
+  margin-left: 20px;
+  padding: 5px;
+  display: flex;
+}

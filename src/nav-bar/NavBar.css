@@ -1,0 +1,15 @@
+nav {
+  background-color: #f55a5a;
+}
+.n-wrapper {
+  display: inline-flex;
+  flex: 1;
+}
+.n-logo {
+  height: 24px;
+  width: 24px;
+}
+
+.n-name {
+  color: #ffffff;
+}
