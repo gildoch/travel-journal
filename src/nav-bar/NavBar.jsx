@@ -1,11 +1,12 @@
-import React, { Component } from "react";
+import React from "react";
 import "./NavBar.css";
+import logo from "../img/logo.png";
 
 function NavBar(props) {
   return (
     <nav className="container-fluid">
       <div className="n-wrapper">
-        <img src="/images/logo.png" alt="" className="n-logo" />
+        <img src={logo} alt="logo-image" className="n-logo" />
         <h3 className="n-name">My Travel Journal</h3>
       </div>
     </nav>
