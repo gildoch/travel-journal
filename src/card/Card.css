@@ -9,3 +9,21 @@
   padding: 5px;
   display: flex;
 }
+
+p{
+  color: #2B283A;
+  
+}
+
+a {
+  color: #918E9B;
+}
+
+.c-row-wrapper {
+  margin-left:40px;
+}
+.c-wrapper-inline{
+  display: flex;
+  column-gap: 15px
+}
+
